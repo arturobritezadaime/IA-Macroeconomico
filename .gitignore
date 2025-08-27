@@ -1,0 +1,14 @@
+# Ignorar la carpeta __pycache__
+__pycache__/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de bases de datos
+*.db
+
+# Ignorar archivos temporales
+*.log
+
+# Ignorar la carpeta outputs
+outputs/
